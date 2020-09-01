@@ -3,7 +3,7 @@ clc
 load SVMModel
 
 %% LOAD TEST IMAGES
-folderTest = 'C:\Users\furka\Documents\GitHub\people-detection-hog-svm-matlab\testImages';
+folderTest = 'testImages';
 imdsTest = imageDatastore(folderTest, ...
     'IncludeSubfolders',true, ...
     'LabelSource','foldernames');

@@ -1,6 +1,6 @@
 %% LOAD TRAINING IMAGES
 clc, clear
-folder = 'C:\Users\furka\Documents\GitHub\people-detection-hog-svm-matlab\trainImages';
+folder = 'trainImages';
 imdsTrain = imageDatastore(folder, ...
     'IncludeSubfolders',true, ...
     'LabelSource','foldernames');
