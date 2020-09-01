@@ -1,0 +1,1 @@
+# qrcode-detection-hog-svm-matlab
