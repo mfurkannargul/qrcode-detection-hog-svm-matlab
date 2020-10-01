@@ -1,1 +1,1 @@
-# people-detection-hog-svm-matlab
+# QR-code-detection-hog-svm-matlab
